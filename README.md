@@ -1,6 +1,8 @@
 # CSS Zen Garden Challenge
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
+> Visit the live website at [CSS Zen Garden Challenge](https://jessicagozali.com.au/zen-garden-challenge-jg).
+
 This challenge shows that through CSS manipulations alone, a completely different design of a website with the same content can be created. The files included in this repository are meant to be another sample of simple CSS application on Zen Garden website.
 
 ## Instructions
